@@ -1,0 +1,21 @@
+{
+    "name": "astilla-light",
+    "displayName": "Astilla Light",
+    "description": "custom theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Astilla Light",
+                "uiTheme": "vs",
+                "path": "./themes/Astilla Light-color-theme.json"
+            }
+        ]
+    }
+}
